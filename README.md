@@ -1,3 +1,5 @@
+If P4SC4L helped you, drop a tip here: https://ko-fi.com/mrpascal
+
 # PASCAL-Vault
 
 Privacy Policy for PASCAL (P4SC4L)
